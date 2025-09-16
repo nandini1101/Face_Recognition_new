@@ -10,4 +10,7 @@ Backend/venv/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.
+
+# Node
+node_modules/
